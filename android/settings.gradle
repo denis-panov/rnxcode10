@@ -1,0 +1,3 @@
+rootProject.name = 'rnxcode10'
+
+include ':app'
